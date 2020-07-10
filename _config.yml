@@ -1,25 +1,54 @@
-title:              Jahangeer Iqbal
-email:              jaiqbal@microsoft.com
-description:        Welcome to my blog!
-author:             Jahangeer Iqbal
-baseurl:            "/"
-url:                "https://jaiqbal.github.io"
+# Site settings
+title: Erika Lopes
+description: >- # this means to ignore newlines until "baseurl:"
+  Lorem isuputor mar lorem usportuni calaridaders for por is form calareios.
+baseurl: "/portfolYOU"  # the subpath of your site, e.g. /blog
+url: "https://github.com/erikalopes" # the base hostname & protocol for your site, e.g. http://example.com
 
-# Social Profiles
-twitter_username:   jaiqbal
-github_username:    jaiqbal
-facebook_username:  jaiqbal
-instagram_username:  
-linkedin_username:
 
-# Add your google-analytics ID here to activate google analytics
-google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+
 
 # Build settings
-markdown:           kramdown
-paginate:           5
-paginate_path:      "/posts/page:num/"
-plugins:
-  - jekyll-feed
-  - jekyll-paginate
-  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+markdown: kramdown
+# plugins:
+# - jekyll-feed
+
+
+# Author Info
+author:
+  name     : Erika Lopes
+  image    : /assets/images/avatar.jpg
+  email    : caluerika@gmail.com
+  github   : erikalopes
+  twitter  : #
+  linkedin : #
+  facebook : #
+
+
+# Collections
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name
+
+
+# Default values for collections
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "page"
+
+
+# Posts default Permalink
+permalink: articles/:title
+
+
+# Exclude from processing.
+exclude:
+- README.md
+- CONTRIBUTING.md
+- LICENSE
+- Gemfile
+- Gemfile.lock
