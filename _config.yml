@@ -1,9 +1,9 @@
 # Site settings
-title: Erika Lopes
+title: Jahangeer Iqbal
 description: >- # this means to ignore newlines until "baseurl:"
   Lorem isuputor mar lorem usportuni calaridaders for por is form calareios.
-baseurl: "/portfolYOU"  # the subpath of your site, e.g. /blog
-url: "https://github.com/erikalopes" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: ""  # the subpath of your site, e.g. /blog
+url: "https://jaiqbal.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 
