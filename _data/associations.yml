@@ -1,0 +1,45 @@
+# Associations
+# comment out the urls if you do not wish to display them
+
+- organization: Compete to Create
+  role: High Performance Mindset
+  year: 2020
+  #url: https://www.
+  #summary: Orgg
+
+
+- organization: Microsoft
+  role: Microsoft Certified Data Scientist
+  year: 2020
+  #url: https://www.
+  #summary: Orgg
+  
+- organization: Microsoft
+  role: Microsoft Certified AI Engineer
+  year: 2020
+  #url: https://www.
+  #summary: Orgg  
+  
+- organization: Microsoft
+  role: Microsoft Global Challenger
+  year: 2020
+  #url: https://www.
+  #summary: Orgg
+  
+- organization: Demo2Win!
+  role: Demo2Win! Certified
+  year: 2020
+  #url: https://www.
+  #summary: Orgg  
+  
+- organization: Warsaw International Summer School
+  role: DeepLearn 2019 International Summer School Attendee
+  year: 2019
+  #url: https://www.
+  #summary: Orgg  
+  
+- organization: Google
+  role: Architecting with Google Cloud Platform
+  year: 2019
+  #url: https://www.
+  #summary: Orgg  

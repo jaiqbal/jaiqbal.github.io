@@ -1,0 +1,38 @@
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+
+# DigitalSalesStories
+- project: DigitalSalesStories
+  role: Microsoft
+  duration: Feb, 2020 &mdash; Present
+  # url: "#"
+  description: Initiated, edit and host a podcast - DigitalSalesStories - with the goal of providing voice to the Digital Sales community, allowing for feedback and relevant stories to be heard.
+
+# StudioStories
+- project: StudioStories
+  role: The Dock, Accenture
+  duration: May, 2019 &mdash; Dec, 2019
+  # url: "#"
+  description: Initiated, edit and host a podcast - StudioStories - with the goal of providing a window into the Dock at the ground level, providing a platform to allow employees to share their experiences adding to the cultural diversity - by the people for the people.
+  
+  # Ministry of Fun
+- project: Ministry of Fun
+  role: The Dock, Accenture
+  duration: Jun, 2019 &mdash; Present
+  # url: "#"
+  description: Leading a social committee to organize events for the CIO team - ensuring the fun factor is thoroughly present. Monthly cadence of events, SWAG, acknowledgements and celebrations.
+ 
+ 
+   # Co-pilot
+- project: Co-pilot
+  role: TheSoundSniffer.com
+  duration: Feb, 2017 &mdash; Aug, 2017
+  # url: "#"
+  description: A freshly developed music resource operating out of London and Groningen. Bringing music closer to those it matters most. Organizing events and writing about the rare musical finds.
+  
+     # HR AI Assistant
+- project: HR AI Assistant
+  role: IBM
+  duration: Oct, 2018 &mdash; Oct, 2018
+  # url: "#"
+  description: Our HR colleague left - I decided to create an internal HR virtual assistant chatbot to replace the gap, based on IBM Watson and hosted on our internal communications channel - Slack, using the Slack API and webhooks. Virtual assistant was able to guide colleagues in information retrieval regarding HR processes and documents.
